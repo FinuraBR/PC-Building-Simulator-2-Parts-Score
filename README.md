@@ -4,7 +4,6 @@ Este repositório documenta os testes de performance e pontuações de component
 
 ## 🛠️ Informações do Jogo e Ambiente
 *   **Versão do Jogo:** 1.14.02
-*   **Data dos Testes:** Dezembro de 2025
 
 ### 🔌 Mods Utilizados
 | Mod | Data de Atualização | Link |
