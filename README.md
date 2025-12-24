@@ -1,4 +1,4 @@
-# PC Building Simulator 2 - Benchmark Results 🖥️
+# PC Building Simulator 2 - Benchmark Results 🖥️ (WIP)
 
 Este repositório documenta os testes de performance e pontuações de componentes específicos utilizando mods no **PC Building Simulator 2**.
 
