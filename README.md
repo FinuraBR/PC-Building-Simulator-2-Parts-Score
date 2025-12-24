@@ -50,6 +50,7 @@ Configuração utilizada para validar os componentes:
 | **Port Royal** | 15.716 | 69,00 | - |
 | **Speedway** | 6.252 | 62,53 | - |
 
+---
 
 ### 🔴 AMD Radeon PRO W7600 XM
 
@@ -63,6 +64,126 @@ Configuração utilizada para validar os componentes:
 | **TimeSpy Extreme** | 4.548 | 28,98 | 25,14 |
 | **Port Royal** | 4.853 | 21,00 | - |
 | **Speedway** | - | - | - |
+
+---
+
+### 🔴 AMD Radeon PRO W7700 X
+
+#### Resumo Geral
+*   **Will it Run?:** 288 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 15.281 | 99,02 | 87,99 |
+| **TimeSpy Extreme** | 7.398 | 46,54 | 41,35 |
+| **Port Royal** | 8.551 | 37,00 | - |
+| **Speedway** | 2.982 | 29,83 | - |
+
+---
+
+### 🔴 AMD Radeon PRO W7800 X
+
+#### Resumo Geral
+*   **Will it Run?:** 304 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 16.936 | 110,86 | 96,66 |
+| **TimeSpy Extreme** | 8.200 | 52,10 | 45,43 |
+| **Port Royal** | 9.707 | 43,00 | - |
+| **Speedway** | 3.442 | 34,43 | - |
+
+---
+
+### 🔴 AMD Radeon PRO W7900 X
+
+#### Resumo Geral
+*   **Will it Run?:** 342 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 21.436 | 139,41 | 123,03 |
+| **TimeSpy Extreme** | 10.379 | 65,52 | 57,82 |
+| **Port Royal** | 12.711 | 55,00 | - |
+| **Speedway** | 4.652 | 46,52 | - |
+
+---
+
+### 🔴 AMD Radeon RX 5700
+
+#### Resumo Geral
+*   **Will it Run?:** 228 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 7.893 | 53,70 | 43,61 |
+| **TimeSpy Extreme** | - | - | - |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 AMD Radeon RX 5700 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 235 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 8.728 | 59,45 | 48,17 |
+| **TimeSpy Extreme** | - | - | - |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 AMD Radeon RX 6500 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 199 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 4.932 | 32,34 | 28,10 |
+| **TimeSpy Extreme** | 2.388 | 15,20 | 13,21 |
+| **Port Royal** | 231 | 2,00 | - |
+| **Speedway** | 120 | 1,20 | - |
+
+---
+
+### 🔴 AMD Radeon RX 6700 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 261 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 11.790 | 78,38 | 66,40 |
+| **TimeSpy Extreme** | 5.708 | 36,84 | 31,21 |
+| **Port Royal** | 6.240 | 27,00 | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 AMD Radeon RX 6800
+
+#### Resumo Geral
+*   **Will it Run?:** 284 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 14.343 | 96,10 | 80,25 |
+| **TimeSpy Extreme** | 6.945 | 45,17 | 37,72 |
+| **Port Royal** | 7.626 | 34,00 | - |
+| **Speedway** | 2.971 | 29,71 | - |
 
 ---
 
