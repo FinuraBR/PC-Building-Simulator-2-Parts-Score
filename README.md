@@ -50,6 +50,20 @@ Configuração utilizada para validar os componentes:
 | **Port Royal** | 15.716 | 69,00 | - |
 | **Speedway** | 6.252 | 62,53 | - |
 
+
+### 🔴 AMD Radeon PRO W7600 XM
+
+#### Resumo Geral
+*   **Will it Run?:** 238 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 9.393 | 61,66 | 53,48 |
+| **TimeSpy Extreme** | 4.548 | 28,98 | 25,14 |
+| **Port Royal** | 4.853 | 21,00 | - |
+| **Speedway** | - | - | - |
+
 ---
 
 > **Nota:** Os resultados acima foram obtidos com mods instalados. A performance pode variar em versões diferentes do jogo ou sem o uso das modificações citadas.
