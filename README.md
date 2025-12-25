@@ -4,6 +4,7 @@ Este repositório documenta os testes de performance e pontuações de component
 
 ## 🛠️ Informações do Jogo e Ambiente
 *   **Versão do Jogo:** 1.14.02
+*   **Data dos Testes:** Dezembro de 2025
 
 ### 🔌 Mods Utilizados
 | Mod | Data de Atualização | Link |
@@ -183,6 +184,66 @@ Configuração utilizada para validar os componentes:
 | **TimeSpy Extreme** | 6.945 | 45,17 | 37,72 |
 | **Port Royal** | 7.626 | 34,00 | - |
 | **Speedway** | 2.971 | 29,71 | - |
+
+---
+
+### 🔴 AMD Radeon RX 6800 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 308 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 17.070 | 114,35 | 95,52 |
+| **TimeSpy Extreme** | 8.265 | 53,74 | 44,90 |
+| **Port Royal** | 9.244 | 41,00 | - |
+| **Speedway** | 3.610 | 36,10 | - |
+
+---
+
+### 🔴 AMD Radeon RX 6900 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 316 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 17.879 | 120,24 | 99,71 |
+| **TimeSpy Extreme** | 8.656 | 56,51 | 46,86 |
+| **Port Royal** | 9.938 | 44,00 | - |
+| **Speedway** | 3.820 | 38,20 | - |
+
+---
+
+### 🔴 AMD Radeon RX 6950 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 336 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 20.493 | 134,96 | 116,34 |
+| **TimeSpy Extreme** | 9.922 | 63,43 | 54,68 |
+| **Port Royal** | 10.631 | 46,00 | - |
+| **Speedway** | 3.998 | 39,99 | - |
+
+---
+
+### 🔴 AMD Radeon RX 7700 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 305 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 17.254 | 112,08 | 99,13 |
+| **TimeSpy Extreme** | 8.354 | 52,68 | 46,59 |
+| **Port Royal** | 9.707 | 42,00 | - |
+| **Speedway** | 3.165 | 31,66 | - |
 
 ---
 
