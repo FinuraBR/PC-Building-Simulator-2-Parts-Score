@@ -247,4 +247,79 @@ Configuração utilizada para validar os componentes:
 
 ---
 
+### 🔴 AMD Radeon RX 7800 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 329 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 19.960 | 130,15 | 114,30 |
+| **TimeSpy Extreme** | 9.664 | 61,17 | 53,72 |
+| **Port Royal** | 11.556 | 50,00 | - |
+| **Speedway** | 3.992 | 39,93 | - |
+
+---
+
+### 🔴 AMD Radeon RX 7900 XT
+
+#### Resumo Geral
+*   **Will it Run?:** 372 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 24.866 | 162,37 | 142,21 |
+| **TimeSpy Extreme** | 12.039 | 76,32 | 66,84 |
+| **Port Royal** | 14.560 | 63,00 | - |
+| **Speedway** | 5.400 | 54,00 | - |
+
+---
+
+### 🔴 AMD Radeon RX 7900 XTX
+
+#### Resumo Geral
+*   **Will it Run?:** 409 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 29.107 | 190,23 | 166,34 |
+| **TimeSpy Extreme** | 14.093 | 89,41 | 78,18 |
+| **Port Royal** | 16.178 | 70,00 | - |
+| **Speedway** | 6.402 | 64,03 | - |
+
+---
+
+### 🔴 AMD Radeon RX 9060
+
+#### Resumo Geral
+*   **Will it Run?:** 290 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 15.474 | 100,22 | 89,14 |
+| **TimeSpy Extreme** | 7.492 | 47,10 | 41,90 |
+| **Port Royal** | 8.782 | 38,00 | - |
+| **Speedway** | 3.228 | 32,29 | - |
+
+---
+
+### 🔴 AMD Radeon VII
+
+#### Resumo Geral
+*   **Will it Run?:** 236 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 8.588 | 59,98 | 46,47 |
+| **TimeSpy Extreme** | 4.158 | 28,19 | 21,84 |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
 > **Nota:** Os resultados acima foram obtidos com mods instalados. A performance pode variar em versões diferentes do jogo ou sem o uso das modificações citadas.
