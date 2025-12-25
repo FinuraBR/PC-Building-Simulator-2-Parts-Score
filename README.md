@@ -322,4 +322,109 @@ Configuração utilizada para validar os componentes:
 
 ---
 
+### 🔴 ASRock Phantom Gaming D Radeon RX580 8G OC
+
+#### Resumo Geral
+*   **Will it Run?:** 195 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 4.311 | 29,06 | 23,99 |
+| **TimeSpy Extreme** | 2.087 | 13,66 | 11,28 |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 ASRock Phantom Gaming Radeon RX560 4G
+
+#### Resumo Geral
+*   **Will it Run?:** - FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 1.878 | 12,79 | 10,38 |
+| **TimeSpy Extreme** | 909 | 6,01 | 4,88 |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 ASRock Phantom Gaming X Radeon RX VEGA 56 8G
+
+#### Resumo Geral
+*   **Will it Run?:** 215 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 6.343 | 43,68 | 34,70 |
+| **TimeSpy Extreme** | 3.071 | 20,53 | 16,31 |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 ASRock Phantom Gaming X Radeon RX580 8G OC
+
+#### Resumo Geral
+*   **Will it Run?:** 195 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 4.331 | 29,20 | 24,11 |
+| **TimeSpy Extreme** | 2.097 | 13,72 | 11,33 |
+| **Port Royal** | - | - | - |
+| **Speedway** | - | - | - |
+
+---
+
+### 🔴 ASRock Phantom Gaming X Radeon RX590 8G OC
+
+#### Resumo Geral
+*   **Will it Run?:** 199 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 4.775 | 32,08 | 26,66 |
+| **TimeSpy Extreme** | 2.312 | 15,08 | 12,53 |
+| **Port Royal** | - | - | - |
+| **Speedway** | 2.997 | 29,97 | - |
+
+---
+
+### 🔴 ASRock Radeon RX 6800 XT Phantom Gaming D 16G OC
+
+#### Resumo Geral
+*   **Will it Run?:** 311 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 17.304 | 115,93 | 96,82 |
+| **TimeSpy Extreme** | 8.378 | 54,49 | 45,50|
+| **Port Royal** | 9.475 | 42 | - |
+| **Speedway** | 3.665 | 36,66 | - |
+
+---
+
+### 🔴 ASRock Radeon RX 6800 XT Taichi X 16G OC
+
+#### Resumo Geral
+*   **Will it Run?:** 312 FPS
+
+#### Benchmarks Detalhados
+| Teste | Pontuação do Componente | Teste 1 (FPS) | Teste 2 (FPS) |
+| :--- | :---: | :---: | :---: |
+| **TimeSpy** | 17.499 | 117,25 | 97,90 |
+| **TimeSpy Extreme** | 8.473 | 55,11 | 46,01 |
+| **Port Royal** | 9.707 | 42 | - |
+| **Speedway** | 3.712 | 37,12 | - |
+
+---
+
 > **Nota:** Os resultados acima foram obtidos com mods instalados. A performance pode variar em versões diferentes do jogo ou sem o uso das modificações citadas.
